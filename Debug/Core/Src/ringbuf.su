@@ -1,0 +1,8 @@
+ringbuf.c:28:9:RINGBUF_Init	24	static
+ringbuf.c:47:9:RINGBUF_Put	24	static
+ringbuf.c:68:9:RINGBUF_Puts	32	static
+ringbuf.c:85:10:RINGBUF_Get	16	static
+ringbuf.c:108:9:RINGBUF_GetFill	16	static
+ringbuf.c:120:9:RINGBUF_Check	40	static
+ringbuf.c:146:6:InitFindData	16	static
+ringbuf.c:153:9:FindData	16	static

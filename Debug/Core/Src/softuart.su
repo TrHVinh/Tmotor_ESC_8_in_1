@@ -1,0 +1,14 @@
+softuart.c:19:15:SoftUartGpioReadPin	16	static
+softuart.c:25:6:SoftUartGpioWritePin	16	static
+softuart.c:31:17:SoftUartInit	24	static
+softuart.c:65:6:SoftUartTransmitBit	16	static
+softuart.c:71:17:SoftUartEnableRx	16	static
+softuart.c:79:17:SoftUartDisableRx	16	static
+softuart.c:87:9:SoftUartRxAlavailable	16	static
+softuart.c:93:17:SoftUartReadRxBuffer	24	static
+softuart.c:110:6:SoftUartTxProcess	16	static
+softuart.c:162:6:SoftUartRxDataBitProcess	16	static
+softuart.c:203:6:SoftUartWaitUntilTxComplate	16	static
+softuart.c:209:17:SoftUartPuts	24	static
+softuart.c:231:9:SoftUartScanRxPorts	16	static
+softuart.c:260:6:SoftUartHandler	16	static

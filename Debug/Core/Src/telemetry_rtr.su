@@ -1,0 +1,3 @@
+telemetry_rtr.c:5:9:update_crc8	24	static
+telemetry_rtr.c:12:9:get_crc8	24	static
+telemetry_rtr.c:18:17:telemetryParse	40	static
