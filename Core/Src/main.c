@@ -39,7 +39,7 @@
 /* USER CODE BEGIN PD */
 #define RXBUFFERSIZE        1
 #define RINGBUF_BUFF_LEN    100
-#define SYSTEM_ID           0
+#define SYSTEM_ID           1
 #define COMPONENT_ID        0
 /* USER CODE END PD */
 
